@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\bin\Debug\net6.0\MetodosStrings.exe
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\bin\Debug\net6.0\MetodosStrings.deps.json
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\bin\Debug\net6.0\MetodosStrings.runtimeconfig.json
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\bin\Debug\net6.0\MetodosStrings.dll
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\bin\Debug\net6.0\MetodosStrings.pdb
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.dll
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\refint\MetodosStrings.dll
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.pdb
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\MetodosStrings.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\MetodosStrings\MetodosStrings\obj\Debug\net6.0\ref\MetodosStrings.dll
